@@ -54,18 +54,6 @@ int inp;
 int battery;
 uint32_t bat_timer;
 
-byte grad[8] = {
-  0b00110,
-  0b01001,
-  0b01001,
-  0b00110,
-  0b00000,
-  0b00000,
-  0b00000,
-  0b00000
-};
-
-
 void setup() {
   pinMode(UP, INPUT_PULLUP);
   pinMode(DOWN, INPUT_PULLUP);
