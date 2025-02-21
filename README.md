@@ -1,7 +1,7 @@
 # altimeter-clock
 часы-высотомер
 
-![часы-высотомер, вид 1](https://github.com/DIY-Elecron1cs/altimeter-clock/blob/main/images/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%20(%D1%81%D0%B1%D0%BE%D0%BA%D1%83).jpg?raw=true)
+![часы-высотомер](https://github.com/DIY-Elecron1cs/altimeter-clock/blob/main/images/main.jpg?raw=true)
 
 ## управление
 ### основные режимы
@@ -46,3 +46,5 @@
 
 ## обратная связь
 По вопросам писать в наш [чат в ТГ](https://t.me/DiyElectronicsChat) или в группу с комментариями к каналу [DIY electronics](https://t.me/diy_electron1cs)
+
+![часы-высотомер, вид 1](https://github.com/DIY-Elecron1cs/altimeter-clock/blob/main/images/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%20(%D1%81%D0%B1%D0%BE%D0%BA%D1%83).jpg?raw=true)
