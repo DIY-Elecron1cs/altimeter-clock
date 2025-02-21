@@ -33,6 +33,8 @@
 ## плата, сборка
 ![вид внутри](https://github.com/DIY-Elecron1cs/altimeter-clock/blob/main/images/%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8.jpg?raw=true)
 
+![вид платы с лицевой стороны](https://github.com/DIY-Elecron1cs/altimeter-clock/blob/main/images/%D0%BF%D0%BB%D0%B0%D1%82%D0%B0%20%D1%81%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B8.jpg?raw=true)
+
 ## корпус
 Файлы 3D моделей корпуса, подставки и кнопок есть в директории [3dprint](https://github.com/DIY-Elecron1cs/altimeter-clock/tree/main/3dprint). Для печати подходят как STL, так и STEP форматы. Последний чуть более детализированный.
 
