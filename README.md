@@ -30,5 +30,17 @@
 - TP4056 (зарядник для литиевых аккумуляторов)
 - Mini DC-DC Step Up Converter Board Module (гуглить именно так, какого-то определённого названия у него нет)
 
-## сборка
+## плата, сборка
 ![вид внутри](https://github.com/DIY-Elecron1cs/altimeter-clock/blob/main/images/%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8.jpg?raw=true)
+
+## корпус
+Файлы 3D моделей корпуса, подставки и кнопок есть в директории [3dprint](https://github.com/DIY-Elecron1cs/altimeter-clock/tree/main/3dprint). Для печати подходят как STL, так и STEP форматы. Последний чуть более детализированный.
+
+### кнопки
+Так как кнопки могут быть разной высоты и припаяны немного под разным углом, расстояние от корпуса до кнопки может быть разными. В директории [buttons](https://github.com/DIY-Elecron1cs/altimeter-clock/tree/main/3dprint/buttons) есть калибровочные кнопки разной высоты.
+Чтобы не было дребезга кнопок советую вырезать шаблон из микропористой резины (или ещё чего-то мягкого) и вставить в него распечатанные кнопки.
+
+![сборка в Компас 3D](https://github.com/DIY-Elecron1cs/altimeter-clock/blob/main/images/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%84%D0%BE%D1%82%D0%BE.png?raw=true)
+
+## обратная связь
+По вопросам писать в наш [чат в ТГ](https://t.me/DiyElectronicsChat) или в группу с комментариями к каналу [DIY electronics](https://t.me/diy_electron1cs)
